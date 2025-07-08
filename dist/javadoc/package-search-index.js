@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.saludpredictiva.controller"},{"l":"com.saludpredictiva.dao"},{"l":"com.saludpredictiva.main"},{"l":"com.saludpredictiva.model"},{"l":"com.saludpredictiva.util"},{"l":"com.saludpredictiva.view"}];updateSearchResults();
